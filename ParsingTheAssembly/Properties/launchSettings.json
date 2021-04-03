@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParsingTheAssembly": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Study\\JB\\ParsingTheAssembly\\Example\\bin\\Debug\\net5.0\\Example.dll D:\\Study\\JB\\ParsingTheAssembly\\Example\\bin\\Debug\\net5.0\\Example_new.dll"
+    }
+  }
+}
